@@ -1,3 +1,3 @@
 # Admission-prediction
 using machine learning and Ai algorithm
-IDE USE Jupyter Notebook
+$IDE USE Jupyter Notebook
